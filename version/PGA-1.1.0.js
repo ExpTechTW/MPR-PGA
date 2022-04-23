@@ -5,7 +5,7 @@ const Plugin = {
     "version": "1.1.0",
     "depends": {
         "pluginLoader": ">=4.3.0",
-        "EEW": ">=1.1.0"
+        "EEW": ">=1..0"
     },
     "Events": [],
     "Commands": [],
